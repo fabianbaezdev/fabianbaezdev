@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @fabianbaezdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 Tech | AI | Games | Coding
+- 📱 Worked on 30+ apps for 10+ years
+- 🇨🇱 Creating software from South America
+- ⚽ Football
+- 🇯🇵 Anime
+- 👇Look my website
+- [fabianbaez.cl](https://fabianbaez.cl)
+
 
 <!---
 fabianbaezdev/fabianbaezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
